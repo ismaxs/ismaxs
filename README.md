@@ -5,15 +5,13 @@
 
 - 🌱 I’m currently learning **SveltKit**
 
-- 👨‍💻 All of my projects are available at [https://ismaelrp.es/](https://ismaelrp.es/)
+- 👨‍💻 All of my projects and posts are available at [https://ismaelrp.es/](https://ismaelrp.dev/)
 
-- 📝 I regularly write articles on [https://blog.ismaelrp.es/](https://blog.ismaelrp.es/)
+- 💬 Ask me about **Java (SpringBoot), JavaScript & TypeScript (Angular, React, Astro, Electron), SQL**
 
-- 💬 Ask me about **Angular, Java, Spring, React, Electron**
+- 📫 How to reach me **contacto@ismaelrp.com**
 
-- 📫 How to reach me **contacto@ismaelrp.es**
-
-- 📄 Know about my experiences [https://ismaelrp.es/resume.pdf](https://ismaelrp.es/resume.pdf)
+- 📄 Know about my experiences [https://ismaelrp.dev/resume.pdf](https://ismaelrp.dev/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
