@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SveltKit**
 
-- 👨‍💻 All of my projects and posts are available at [https://ismaelrp.es/](https://ismaelrp.dev/)
+- 👨‍💻 All of my projects and posts are available at [https://ismaelrp.dev/](https://ismaelrp.dev/)
 
 - 💬 Ask me about **Java (SpringBoot), JavaScript & TypeScript (Angular, React, Astro, Electron), SQL**
 
